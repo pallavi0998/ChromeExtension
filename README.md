@@ -80,4 +80,6 @@ Conclusion
 Building this Chrome Extension with React.js and Chrome APIs enhanced my knowledge of browser extensions, event-driven programming, and time management solutions. The extension provides an efficient way to track online time, helping users stay productive and control screen time.
 
 This project demonstrates how React.js and Chrome APIs can be combined to create useful productivity tools! 🚀
+
+![Image](https://github.com/user-attachments/assets/853157a0-cbcc-4822-9481-ffe0b8a48afc)
   
